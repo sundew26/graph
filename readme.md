@@ -1,3 +1,5 @@
+ #### 没翻墙看不到图片, 翻墙了才能看到, 不知道为啥....
+
 
  ![image](https://github.com/stardew516/graph/blob/master/%E9%AB%98%E6%B8%85%E5%9B%BE/%20%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.png)
 
